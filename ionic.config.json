@@ -1,0 +1,7 @@
+{
+  "name": "bong-app",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
